@@ -1,0 +1,2 @@
+model,rank,regParam,precision,ndcg
+als_final,20,0.1,4.868973161269896E-5,4.040914579353009E-4
